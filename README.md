@@ -198,7 +198,7 @@ This programme was developed as part of a **Risk Management project** in the **T
 
 <div align="center">
 
-**Built with** ❤️ **for the GRC & InfoSec community**
+**Built with** **for the GRC & InfoSec community**
 
 ![ISO 27001](https://img.shields.io/badge/ISO-27001%3A2022-blue)
 ![ISO 22301](https://img.shields.io/badge/ISO-22301%3A2019-blue)
